@@ -12,7 +12,8 @@
       "backgroundColor": "#ffffff"
     },
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.marcshilling.expoimagea11ybugrepro"
     },
     "android": {
       "adaptiveIcon": {
@@ -20,7 +21,8 @@
         "foregroundImage": "./assets/android-icon-foreground.png",
         "backgroundImage": "./assets/android-icon-background.png",
         "monochromeImage": "./assets/android-icon-monochrome.png"
-      }
+      },
+      "package": "com.marcshilling.expoimagea11ybugrepro"
     },
     "web": {
       "favicon": "./assets/favicon.png"
